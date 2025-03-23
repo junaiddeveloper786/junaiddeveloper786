@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohammed Junaid
-I am from Nanded, Maharashtra, with rich experience in web design and expertise in Full Stack
+I am from Nanded, Maharashtra, with rich experience in web design and expertise in Full Stack </ br>
 development. I love exploring what makes us unique.
 
 Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or Anything Else. 😊😊
