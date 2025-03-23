@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=380&height=28&lines=Hi👋+I+am+Mohammed+Junaid..;Full+Stack+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=🚀+Hi!+I'm+Mohammed+Junaid;💻+Experienced+Java+Full+Stack+Developer;⚡+Spring+Boot+%7C+React+%7C+MUI+%7C+AWS;🔗+Let's+Build+Something+Awesome!;🌍+Open-Source+Enthusiast;🤝+Let's+Collaborate!;📚+Learning+In+Public..;🚀+Empowering+Others;😊+Nice+To+Meet+You!">
+</p>
     
 # 💫 Hi 👋, I'm Mohammed Junaid
 I am from Nanded, Maharashtra, with rich experience in web design and <br/>
