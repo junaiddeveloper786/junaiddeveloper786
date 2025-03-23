@@ -1,3 +1,10 @@
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Nadeem+Sarwar..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
+
+
+
 # 💫 Hi 👋, I'm Mohammed Junaid
 I am from Nanded, Maharashtra, with rich experience in web design and <br/>
 expertise in Full Stack development. I love exploring what makes us unique.
