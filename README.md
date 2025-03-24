@@ -36,21 +36,20 @@ Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or 
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=junaiddeveloper786&theme=radical&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=junaiddeveloper786&theme=radical&include_all_commits=true&count_private=true" width="480"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junaiddeveloper786&theme=radical" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img height="200" src="https://github-contributor-stats.vercel.app/api?username=junaiddeveloper786&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junaiddeveloper786&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaiddeveloper786&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaiddeveloper786&theme=radical" width="480" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junaiddeveloper786&theme=radical&utcOffset=8" />
 </div>
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=junaiddeveloper786&icon=0&color=0)](https://visitcount.itsvg.in)
