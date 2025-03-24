@@ -8,6 +8,8 @@ expertise in Full Stack development. I love exploring what makes us unique.
 
 Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
