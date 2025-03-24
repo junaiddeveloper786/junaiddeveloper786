@@ -45,11 +45,10 @@ Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junaiddeveloper786&theme=radical" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaiddeveloper786&theme=radical" width="480" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=junaiddeveloper786&theme=radical&utcOffset=8" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical"  width="300"/>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical"  width="200"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=junaiddeveloper786&icon=0&color=0)](https://visitcount.itsvg.in)
