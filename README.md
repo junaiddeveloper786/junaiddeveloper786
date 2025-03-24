@@ -49,7 +49,7 @@ Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaiddeveloper786&layout=compact&theme=radical"  width="250"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=junaiddeveloper786&icon=0&color=0)](https://visitcount.itsvg.in)
