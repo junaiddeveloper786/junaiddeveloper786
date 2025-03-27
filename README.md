@@ -10,12 +10,12 @@ expertise in Full Stack development. I love exploring what makes us unique.
 Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/iamAntimPal?tab=repositories)
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** junaiddeveloper@gmail.com
+- 🔭 **I’m currently working on:** Training as a Full Stack Developer at MaxxZoom India Pvt Ltd
+- 🌱 **I’m currently learning:** Full Stack Development (MERN/Java)
+- 👯 **I’m looking to collaborate on:** Beginner-friendly projects, open-source contributions
+- 🤔 **I’m looking for help with:** Full Stack concepts, best practices, real-world project guidance
+- 💬 **Ask me about:** My learning journey, fresher experiences, tech discussions
+- 📫 **How to reach me:** junaiddeveloper786@gmail.com
 - 😄 **Pronouns:** Junaid Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
