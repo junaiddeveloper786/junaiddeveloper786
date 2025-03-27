@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junaiddeveloper786&label=Profile%20views&color=0e75b6&style=flat" alt="junaiddeveloper786"/> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=🚀+Hi!+I'm+Mohammed+Junaid;💻+Experienced+Java+Full+Stack+Developer;⚡+Spring+Boot+%7C+React+%7C+MUI+%7C+AWS;🔗+Let's+Build+Something+Awesome!;🌍+Open-Source+Enthusiast;🤝+Let's+Collaborate!;📚+Learning+In+Public..;🚀+Empowering+Others;😊+Nice+To+Meet+You!">
 </p>
@@ -73,5 +74,5 @@ Email Me 👉 ✉️ **junaiddeveloper@gmail.com** For Collaboration/Project or 
 <img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
 </p>
