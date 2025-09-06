@@ -10,14 +10,14 @@ expertise in Full Stack development. I love exploring what makes us unique.
 Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/iamAntimPal?tab=repositories)
 
-- 🔭 Currently working as: a Full Stack Developer at Stellam Technology Pvt Ltd
-- 🌱 **Currently learning:** Full Stack Development (MERN / Java)
+- 🔭 **Currently working as:** A Full Stack Developer at Stellam Technology Pvt Ltd
+- 🌱 **Currently learning:** Full Stack Development (MERN & Java)
 - 👯 **Looking to collaborate on:** Beginner-friendly projects and open-source contributions
-- 🤔 **Looking for help with:** Full Stack concepts, best practices, real-world project guidance
-- 💬 **Ask me about:** My learning journey, fresher experiences, tech discussions
+- 🤔 **Looking for help with:** Full Stack concepts, best practices, and real-world project guidance
+- 💬 **Ask me about:** My learning journey, fresher experiences, and tech discussions
 - 📫 **How to reach me:** junaiddeveloper786@gmail.com
 - 😄 **Pronouns:** Junaid Sir
-- ⚡ **Fun fact:** I love Tech and Tech loves me
+- ⚡ **Fun fact:** I love technology and it loves me back
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junaiddeveloper786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
