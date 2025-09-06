@@ -10,7 +10,7 @@ expertise in Full Stack development. I love exploring what makes us unique.
 Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/iamAntimPal?tab=repositories)
 
-- 🔭 **I’m currently working on:** Training as a Full Stack Developer at Maxxzoom India Pvt Ltd
+- 🔭 **I’m currently working on:** Training as a Full Stack Developer at Stellam Technology Pvt Ltd
 - 🌱 **I’m currently learning:** Full Stack Development (MERN/Java)
 - 👯 **I’m looking to collaborate on:** Beginner-friendly projects, open-source contributions
 - 🤔 **I’m looking for help with:** Full Stack concepts, best practices, real-world project guidance
