@@ -4,20 +4,20 @@
 </p>
     
 # 💫 Hi 👋, I'm Mohammed Junaid
-I am from Nanded, Maharashtra, with rich experience in web design and <br/>
+I am from Auragabad, Maharashtra, with rich experience in web design and <br/>
 expertise in Full Stack development. I love exploring what makes us unique.
 
 Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/iamAntimPal?tab=repositories)
 
-- 🔭 **I’m currently working on:** Training as a Full Stack Developer at Stellam Technology Pvt Ltd
-- 🌱 **I’m currently learning:** Full Stack Development (MERN/Java)
-- 👯 **I’m looking to collaborate on:** Beginner-friendly projects, open-source contributions
-- 🤔 **I’m looking for help with:** Full Stack concepts, best practices, real-world project guidance
-- 💬 **Ask me about:** My learning journey, fresher experiences, tech discussions
-- 📫 **How to reach me:** junaiddeveloper786@gmail.com
-- 😄 **Pronouns:** Junaid Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  \resumeItem{🔭 \textbf{Currently working on:} Training as a Full Stack Developer at Stellam Technology Pvt Ltd.}
+    \resumeItem{🌱 \textbf{Currently learning:} Full Stack Development (MERN / Java).}
+    \resumeItem{👯 \textbf{Looking to collaborate on:} Beginner-friendly projects and open-source contributions.}
+    \resumeItem{🤔 \textbf{Looking for help with:} Full Stack concepts, best practices, real-world project guidance.}
+    \resumeItem{💬 \textbf{Ask me about:} My learning journey, fresher experiences, tech discussions.}
+    \resumeItem{📫 \textbf{How to reach me:} \href{mailto:junaiddeveloper786@gmail.com}{junaiddeveloper786@gmail.com}.}
+    \resumeItem{😄 \textbf{Pronouns:} Junaid Sir.}
+    \resumeItem{⚡ \textbf{Fun fact:} I love Tech and Tech loves me.}
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junaiddeveloper786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
