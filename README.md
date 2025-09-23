@@ -6,11 +6,11 @@
 # 💫 Hi 👋, I'm Mohammed Junaid
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-I am from Auragabad, Maharashtra, with rich experience in web design and <br/>
+I am from Aurangabad, Maharashtra, with rich experience in web design and <br/>
 expertise in Full Stack development. I love exploring what makes us unique.
 
 Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-[<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/iamAntimPal?tab=repositories)
+[<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="500" height="300" />](https://github.com/junaiddeveloper786?tab=repositories)
 
 - 🔭 **Currently working as:** A Full Stack Developer at Stellam Technology Pvt Ltd
 - 🌱 **Currently learning:** Full Stack Development (MERN & Java)
@@ -28,12 +28,18 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://iamantimpal.github.io/Antim-Portfolio/)
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://junaiddeveloper786.github.io/Portfolio/)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smartjunaid@9823) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smartjunaid@9823) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smartjunaid@9823) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smartjunaid@9823) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smartjunaid@9823) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaiddeveloper@gmailcom) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smartjunaid9823) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smartjunaid9823) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smartjunaid9823)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smartjunaid9823) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smartjunaid9823) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaiddeveloper786@gmailcom) 
 
 <!-- Snake Game Repo View -->
 
@@ -90,7 +96,7 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
   <tr>
     <td><strong>Services & Tools</strong></td>
     <td>
-      <a href="https://github.com/iamAntimPal/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/junaiddeveloper786/"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Action"/>
     </td>
