@@ -22,24 +22,54 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
 - ⚡ **Fun fact:** I love technology and it loves me back
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+
+## 🌐 Portfolio Website  
+
+[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://junaiddeveloper786.github.io/Portfolio/)
+
+</div>
+
+
+<h2 align="center">🔃 Connect with me 🔃</h2>
+<br/>
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <a href="https://linkedin.com/in/junaiddeveloper786" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaiddeveloper786" height="30" width="40" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://instagram.com/junaiddeveloper786" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaiddeveloper786" height="30" width="40" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://twitter.com/junaiddeveloper786" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaiddeveloper786" height="30" width="40" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://fb.com/junaiddeveloper786" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaiddeveloper786" height="30" width="40" />
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://www.youtube.com/@junaiddeveloper786" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junaiddeveloper786 YouTube" height="30" width="40" />
+        </a>
+      </td>
+     </tr>
+  </table>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junaiddeveloper786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## Portfolio Website
-[![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://junaiddeveloper786.github.io/Portfolio/)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smartjunaid9823) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smartjunaid9823) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smartjunaid9823)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smartjunaid9823) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@smartjunaid9823) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaiddeveloper786@gmailcom) 
 
 <!-- Snake Game Repo View -->
 
