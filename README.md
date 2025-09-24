@@ -30,7 +30,6 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
 
 </div>
 
-
 <h2 align="center">🔃 Connect with me 🔃</h2>
 <br/>
 <div align="center">
@@ -61,11 +60,18 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junaiddeveloper786 YouTube" height="30" width="40" />
         </a>
       </td>
-     </tr>
+      <td style="border: none;">
+  <a href="mailto:junaiddeveloper786@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=" alt="Email" height="30" />
+  </a>
+</td>
+    </tr>
   </table>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=junaiddeveloper786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
