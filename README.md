@@ -36,28 +36,28 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <a href="https://linkedin.com/in/junaiddeveloper786" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaiddeveloper786" height="30" width="40" />
+        <a href="https://linkedin.com/in/smartjunaid9823" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartjunaid9823" height="30" width="40" />
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://instagram.com/junaiddeveloper786" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaiddeveloper786" height="30" width="40" />
+        <a href="https://instagram.com/smartjunaid9823" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smartjunaid9823" height="30" width="40" />
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://twitter.com/junaiddeveloper786" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaiddeveloper786" height="30" width="40" />
+        <a href="https://twitter.com/smartjunaid9823" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smartjunaid9823" height="30" width="40" />
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://fb.com/junaiddeveloper786" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaiddeveloper786" height="30" width="40" />
+        <a href="https://fb.com/smartjunaid9823" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smartjunaid9823" height="30" width="40" />
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://www.youtube.com/@junaiddeveloper786" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="junaiddeveloper786 YouTube" height="30" width="40" />
+        <a href="https://www.youtube.com/@smartjunaid9823" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smartjunaid9823 YouTube" height="30" width="40" />
         </a>
       </td>
       <td style="border: none;">
