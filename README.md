@@ -36,7 +36,7 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <a href="https://linkedin.com/in/smartjunaid9823" target="_blank">
+        <a href="https://www.linkedin.com/in/mohammed-junaid-08619231b/" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartjunaid9823" height="30" width="40" />
         </a>
       </td>
