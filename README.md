@@ -77,15 +77,16 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--- 6. Skills Section --->
 
 # 💻 Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -109,9 +110,13 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
     <td><strong>Backend / Java Full Stack</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     </td>
   </tr>
 
@@ -203,9 +208,7 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
 </table>
 
 
-
-# 📊 GitHub Stats:
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1><img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="25" height="25"> My Github Stats: </h1>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=junaiddeveloper786&theme=radical&include_all_commits=true&count_private=true" width="480"/>
@@ -222,6 +225,8 @@ Email Me 👉 ✉️ **junaiddeveloper786@gmail.com** For Collaboration/Project 
 </div>
 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<div align="center" ><a href="#"><img alt="" width="100%" src="assets/datascience.gif"></a></div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- Keep Learing Banner -->
