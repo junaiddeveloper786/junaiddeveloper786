@@ -1,10 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaiddeveloper786&label=Profile%20views&color=0e75b6&style=flat" alt="junaiddeveloper786"/> </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=🚀+Hi!+I'm+Mohammed+Junaid;💻+Full+Stack+Developer+(Java+%7C+MERN);⚡+Spring+Boot+%7C+React+%7C+Node.js+%7C+MongoDB;🔗+Let's+Build+Something+Awesome!;🌍+Open-Source+Enthusiast;🤝+Let's+Collaborate!;📚+Always+Learning+and+Growing;😊+Nice+To+Meet+You!">
-</p>
-    
-# 💫 Hi 👋, I'm Mohammed Junaid
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=50&lines=🚀+Hi!+I'm+Mohammed+Junaid;💻+Full+Stack+Developer+(Java+%7C+MERN);⚡+Spring+Boot+%7C+React+%7C+Node.js+%7C+MongoDB;🔗+Let's+Build+Something+Awesome!;🌍+Open-Source+Enthusiast;🤝+Let's+Collaborate!;📚+Always+Learning+and+Growing;😊+Nice+To+Meet+You!">
+</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# 💫 Hi 👋, I'm Mohammed Junaid
 
 I am from Aurangabad, Maharashtra, with rich experience in web design and <br/>
 expertise in Full Stack development. I love exploring what makes us unique.
